@@ -1,0 +1,33 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Optional: Grunt intermediate storage (https://gruntjs.com/)
+.grunt
+
+# Optional: Bower dependency directory (https://bower.io/)
+bower_components/
+
+# Optional: Compiled binary addons (https://nodejs.org/api/addons.html)
+build/Release/
+
+# Optional: Output of 'npm pack'
+*.tgz
+
+# Optional: Yarn Integrity file (https://yarnpkg.com/)
+.yarn-integrity
+
+# Optional: dotenv environment variables file (https://www.npmjs.com/package/dotenv)
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Optional: OS-generated files
+.DS_Store
+Thumbs.db
